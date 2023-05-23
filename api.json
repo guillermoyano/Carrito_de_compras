@@ -1,0 +1,58 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Café",
+    "thumbnailUrl": "https://images.hola.com/imagenes/estar-bien/20190111135512/cafe-beneficioso-perjudicial/0-635-445/cafenutricion-t.jpg?tx=w_680",
+    "descripcion": "Café tostado"
+  },
+  {
+    "precio": 2500,
+    "id": 2,
+    "title": "Pizza",
+    "thumbnailUrl": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/03/30/6063031b90a87.r_d.1083-871-0.jpeg",
+    "descripcion": "Pizza Quemada"
+  },
+  {
+    "precio": 900,
+    "id": 3,
+    "title": "Gasesosa",
+    "thumbnailUrl": "https://kosante.s3.us-east-2.amazonaws.com/users/3/9AdTOSInSVprHoG1rHKGIWSJvTfPFFSP92obv6Wptc08PdfoCc.png",
+    "descripcion": "Gaseosa caliente y sin gas"
+  },
+  {
+    "precio": 500,
+    "id": 4,
+    "title": "Sandía",
+    "thumbnailUrl": "https://elpoderdelconsumidor.org/wp-content/uploads/2021/08/sandia.jpg",
+    "descripcion": "Sandía con mostaza"
+  },
+  {
+    "precio": 400,
+    "id": 5,
+    "title": "Mango",
+    "thumbnailUrl": "https://t2.uc.ltmcdn.com/es/posts/6/0/6/propiedades_del_mango_para_la_piel_muy_beneficiosas_47606_600.jpg",
+    "descripcion": "Mango loco"
+  },
+  {
+    "precio": 750,
+    "id": 6,
+    "title": "Cerveza",
+    "thumbnailUrl": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/07/06123915/cerveza-1920-2.jpg",
+    "descripcion": "Cerveza tirada"
+  },
+  {
+    "precio": 250,
+    "id": 7,
+    "title": "Medialuna",
+    "thumbnailUrl": "https://d2r9epyceweg5n.cloudfront.net/stores/001/148/235/products/img_25021-f08e6d19024a1c118415968028292037-1024-1024.jpg",
+    "descripcion": "Medialuna con Jamón y queso"
+  },
+  {
+    "precio": 700,
+    "id": 8,
+    "title": "Tostado",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIXHZdxjkII_qg5Se967X2gCJvpA2w62u_1tXjCFUBdIYVoDJ7XUTFRNB9svnCMPHv2g&usqp=CAU",
+    "descripcion": "Tostado doble"
+  }
+]
