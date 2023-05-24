@@ -96,6 +96,8 @@ const armarCarrito = () => {
     items.appendChild(fragment)
 
     armarFooter()
+
+    localStorage.setItem('carrito', JSON.stringify(carrito))
 }
 
 const armarFooter = () => {
